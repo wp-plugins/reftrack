@@ -7,7 +7,7 @@ Tested up to: 4.1.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 
-Using this plugin you can log visits of users who you give unique referral link and keep track of their actions on website 
+With this referral tracking plugin you can log visits of users who you give unique referral link and keep track of their actions on website 
 
 
 == Description ==
